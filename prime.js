@@ -1,9 +1,14 @@
 
 
+
 function Check(number){
     var count = 0;
 
     for(var i =0; i<=number; i++)
+
+{
+    if(number%2==0)
+
     {
         if(number%2==0)
         {
