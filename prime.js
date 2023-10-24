@@ -1,9 +1,9 @@
 var number = 17;
 var count = 0;
 
-for(var i =0; i>number; i++)
+for(var i =0; i<=number; i++)
 {
-    if(number%2==1)
+    if(number%2==0)
     {
         count++;
     }
